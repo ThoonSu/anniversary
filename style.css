@@ -1,0 +1,36 @@
+body {
+  background-color: #9fa0c3;
+  text-align: center;
+  color: #7b435b;
+}
+header {
+  color: #d1f9ff;
+  font-family: "Caveat", cursive;
+  border: 1px solid #fff;
+}
+header p {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+header a {
+  color: #d1f9ff;
+}
+/* navigation */
+
+#nav {
+  text-align: center;
+  padding: 20px 0;
+}
+
+#nav a {
+  display: inline-block;
+  width: 150px;
+  height: 40px;
+  line-height: 40px;
+  text-decoration: none;
+  background-color: #a172a9;
+  border: solid 1px #7b435b;
+  border-radius: 9px;
+  color: #d1f9ff;
+}
