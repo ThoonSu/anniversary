@@ -34,3 +34,36 @@ header a {
   border-radius: 9px;
   color: #d1f9ff;
 }
+
+.card {
+  border: 1px solid #7b435b;
+  background-color: #fff;
+  color: #7b435b;
+  width: 250px;
+  padding: 15px;
+  border-radius: 9px;
+  text-align: left;
+  display: inline-block;
+  font-family: "Lato", sans-serif;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card h4 {
+  font-style: italic;
+}
+.card-img-top {
+  max-width: 100%;
+  border-radius: 9px 9px 0 0;
+}
+
+.memories {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 50px 0;
+  font-family: "Playfair Display", serif;
+  margin-left: 10px;
+  padding: 20px;
+}
